@@ -97,6 +97,10 @@ Use this on any machine or VM you want to monitor.
     docker compose -f docker-compose.agent.yml up -d
     ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/HomeLabInfo/)
+
 ## Authentication (Optional)
 
 By default, the dashboard is open with no login required — existing deployments are unaffected.
